@@ -30,7 +30,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-
-sources:
-  - _assets/css
-  - _assets/images
+defaults:
+  scope:
+    path: "assets/img"
+  values:
+    image: true

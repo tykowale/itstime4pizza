@@ -13,5 +13,5 @@ Matt Tutak
 Tyler Bobella  
 Ty Kowalewski  
 
-![Us](../assets/us.jpg)
-Not pictures: Matt
+  ![Us](../assets/img/us.jpg)
+Not pictured: Matt
